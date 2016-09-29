@@ -1,0 +1,4 @@
+[run]
+source = user_server/
+omit = user_server/settings/*
+       user_server/wsgi.py
